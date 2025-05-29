@@ -1,2 +1,2 @@
-# forest_cover_types
+# etl_practice
 Practice for ETL
